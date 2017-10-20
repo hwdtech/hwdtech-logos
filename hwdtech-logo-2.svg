@@ -1,7 +1,7 @@
 <svg viewBox="0 0 235 150" xmlns="http://www.w3.org/2000/svg">
   <g transform="rotate(-45) translate(-45 40)" stroke-width="15" fill="none">
     <path d="M40 190 L40 70 A20 20 0 0 0 0 70 M0 120 A20 20 0 0 0 40 120" transform="translate(95 0)" stroke="#02c0b6"></path>  
-    <path d="M0 70 L0 120 A20 20 0 0 0 40 120 L40 70 A 20 20 0 0 0 0 70" transform="translate(55 0)" stroke="#ef6853"></path>
+    <path d="M0 120 A20 20 0 0 0 40 120 L40 70 A 20 20 0 0 0 0 70" transform="translate(55 0)" stroke="#ef6853"></path>
     <path d="M0 0 L0 120 A20 20 0 0 0 40 120 L40 70 A 20 20 0 0 0 0 70" transform="translate(15 0)" stroke="#fabe4f"></path>
   </g>
 </svg>
